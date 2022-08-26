@@ -1,5 +1,4 @@
 name: "microbattles"
-author: "emmily"
 authors: [ "NasgarNetwork" ]
 version: ${project.version}
 main: "online.nasgar.microbattles.plugin.MicroBattlesPlugin"

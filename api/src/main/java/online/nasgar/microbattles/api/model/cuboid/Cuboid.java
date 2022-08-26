@@ -21,7 +21,6 @@ import org.bukkit.configuration.serialization.ConfigurationSerializable;
  *
  * @author desht
  * @author KingFaris10
- * @author emmily
  */
 public class Cuboid implements Iterable<Block>, Cloneable, ConfigurationSerializable {
   public static final Cuboid DUMMY = new Cuboid(CoordinatePoint.DUMMY, CoordinatePoint.DUMMY);
